@@ -1,0 +1,22 @@
+{
+    "INTTG Elnaol": {
+        "CharName": "Dovakhin",
+        "CharRace": "Draconico",
+        "CharClass": "Paladino",
+        "CharAttributes": {
+            "Strenght": "15",
+            "Dextery": "10",
+            "Constitution": "14",
+            "Inteligence": "12",
+            "Wisdom": "13",
+            "Charisma": "8"
+        },
+        "CharEquipments": {
+            "MainWea": "18",
+            "SecWea": "5",
+            "Kit": "kitname",
+            "Armor": "ArmorRate",
+            "Currency": "value"
+        }
+    }
+}
